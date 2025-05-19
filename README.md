@@ -11,11 +11,11 @@ Frontend project for a platform to help users quit smoking with tracking, planni
 - Admin dashboard, feedback, and reporting
 
 ## Tech Stack
-- React + Vite
-- TailwindCSS
-- Axios for API calls
-- React Router
-- Chart.js / Recharts for visualizations
+-React
+-.Net
+-
+-
+-
 
 ## Getting Started
 ```bash
