@@ -1,1 +1,1 @@
-# frontend-app
+# Smoking Cessation Support Platform - Frontend
