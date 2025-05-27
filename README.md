@@ -13,8 +13,8 @@ Frontend project for a platform to help users quit smoking with tracking, planni
 ## Tech Stack
 -React
 
--.Net
--
+-Java
+-Spring Boot
 -
 -
 
