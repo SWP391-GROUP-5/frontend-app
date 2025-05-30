@@ -1,0 +1,23 @@
+.authen-template{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.authen-template__form{
+    width: 30%;
+    height: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.authen-template__image{
+    width: 70%;
+    height: 100%;
+    background-image: url('https://familyhospital.vn/wp-content/uploads/2023/07/quyet_tam_cai_thuoc_la.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

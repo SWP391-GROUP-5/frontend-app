@@ -1,0 +1,10 @@
+/* Style cho tiêu đề */
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: gray; /* Có thể đổi màu khác nếu muốn */
+}
+.register-form{
+    width: 100%;
+    padding:0px 30px;
+}
